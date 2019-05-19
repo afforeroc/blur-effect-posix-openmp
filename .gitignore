@@ -1,3 +1,10 @@
+# By user
+blur-effect-posix
+blur-effect-openmp
+logs/*
+outputs/*
+!*.gitkeep
+
 # Prerequisites
 *.d
 
