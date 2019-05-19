@@ -1,0 +1,2 @@
+# practica-blur
+practica-blur
