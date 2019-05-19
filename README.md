@@ -1,4 +1,4 @@
-# Práctica: Blur effect in C with POSIX and OpenMP
+# Blur effect implementation in C with POSIX and OpenMP
 
 ## Steps
 * Compile and run with POSIX: `sh run-blur.sh 1`
